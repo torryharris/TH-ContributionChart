@@ -337,5 +337,8 @@ The developer can change the percent-color mapping as per the requirement.
 			}
 	 
 	
-
+##License
+Contribution chart is licensed under the terms of the MIT License. 
+Please see the [License](https://github.com/torryharris/TH-ContributionChart/blob/master/LICENSE) file for full details.
+		
 	
