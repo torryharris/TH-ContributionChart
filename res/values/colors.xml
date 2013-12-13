@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <color name="blueShade1">#97b9dc</color>
+    <color name="blueShade2">#5e9ec9 </color>
+    <color name="blueShade3">#3676a1 </color>
+    <color name="blueShade4">#234e68 </color>
+    <color name="blueShade5">#10212f</color>
+    <color name="blueShade6">#162a42 </color>
+    <color name="checkedStartColor">#909090</color>
+    <color name="endColor">#EEEEEE</color>
+    <color name="downPressStartColor">#FF57BEFF</color>
+    <color name="strokeColor">#000000</color>
+    <color name="normalStartColor">#FFD9D9D9</color>
+</resources>
