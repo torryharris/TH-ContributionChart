@@ -1,5 +1,8 @@
 TH-ContributionChart
 ====================
+
+![alt text](https://raw.github.com/torryharris/TH-ContributionChart/master/screen1.png "")
+![alt text](https://raw.github.com/torryharris/TH-ContributionChart/master/screen2.png "")
 ##Summary:
 
 Contribution chart is an implementation of the github contribution chart, on android.
